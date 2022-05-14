@@ -1,0 +1,5 @@
+__project_name__ = """qdd_emails"""
+__author__ = """Matthieu Daviaud"""
+__email__ = """matthieu.daviaud@gmail.com"""
+__version__ = """0.1.0"""
+description = """Check validity, verify existence and suggest corrections for a list of email addresses"""
