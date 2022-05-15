@@ -1,0 +1,9 @@
+;NOM;PRENOM;EMAIL;STATUS_CODE;SUGGESTION;STATUS_LIB
+0;Daviaud;Matthieu;matthieu.daviaud@gmail.com;5;;Email is ok but cannot be verified
+1;Constantin;Gilles;constantin.glles@gmail.com;5;;Email is ok but cannot be verified
+2;Daviaud;Matthieu;mattieu.daviau@gmail.com;5;;Email is ok but cannot be verified
+3;Daviaud;Matthieu;matthieu.daviaud@gmail.fr;4;matthieu.daviaud@gmail.com;Email domain does not exist
+4;Daviaud;Matthieu;mamat7777@hotmail.fr;5;;Email is ok but cannot be verified
+5;Lafont;Océane;oceane.+1715@yahoo.fr;2;;Email syntax is incorrect
+6;Daviaud;Océane;oceane1715@yopmail.fr;3;;Email is disposable
+7;Lafont;Franck;;1;;Email is empty
